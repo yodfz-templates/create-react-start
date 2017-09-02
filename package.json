@@ -1,0 +1,33 @@
+{
+  "name": "create-react-start",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yodfz-templates/create-react-start.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yodfz-templates/create-react-start/issues"
+  },
+  "homepage": "https://github.com/yodfz-templates/create-react-start#readme",
+  "devDependencies": {
+    "awesome-typescript-loader": "^3.2.3",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "react": "^15.6.1",
+    "redux": "^3.7.2",
+    "source-map-loader": "^0.2.1",
+    "typescript": "^2.4.2"
+  },
+  "dependencies": {
+    "@types/react": "^16.0.5",
+    "@types/react-dom": "^15.5.4",
+    "react-dom": "^15.6.1"
+  }
+}
