@@ -1,9 +1,10 @@
 {
+  "allowSyntheticDefaultImports": true,
   "compilerOptions": {
     "outDir": "./dist/",
     "sourceMap": true,
     "noImplicitAny": true,
-    "module": "commonjs",
+    "module": "UMD",
     "target": "es5",
     "jsx": "react"
   },
